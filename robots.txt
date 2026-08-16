@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dongxihe.github.io/heiliaosheac/sitemap.xml
